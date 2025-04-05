@@ -1,0 +1,8 @@
+/* ...existing code... */
+
+.with-border {
+  stroke: #000; /* Border color */
+  stroke-width: 2px; /* Border thickness */
+}
+
+/* ...existing code... */
